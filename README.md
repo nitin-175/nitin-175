@@ -40,6 +40,10 @@
 
 
 
+
+
+<hr>
+
 <br><br>
 
 
@@ -75,14 +79,27 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-175&show_icons=true&locale=en" alt="nitin-175" /></p>
 
-<p align="left" style="margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=nitin-175&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-175" />
-</p>
+
 
 <p align="left" style="margin: 20px 0;">
   <img src="https://leetcard.jacoblin.cool/nitinkumarmaurya457 ?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 <br>
+
+<hr>
+
+<!-- 💖 Beautiful Profile View Section -->
+<h2 align="center">✨ Thanks for visiting my GitHub!</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitin-175&label=🌟%20Profile%20Views&color=ff1493&style=for-the-badge" alt="Profile views badge" />
+</p>
+
+<h3 align="center">
+  <strong>Let's build something amazing together 🚀</strong>
+</h3>
+
+<br><br>
 <!-- GitHub Trophy Section -->
 <p style="margin-left: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
