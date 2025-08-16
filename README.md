@@ -1,107 +1,91 @@
-<h1 align="center">Hi 👋, I'm Nitin Kumar Maurya a web Developer</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<!-- Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Nitin+Kumar+Maurya;A+Passionate+Frontend+Developer;Building+Websites+that+Inspire;Always+Learning+New+Things">
+</h1>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="48"/> Web Developer |  
+  <img src="https://media.giphy.com/media/26xBs7GQ9QNwRkUuA/giphy.gif" width="48"/> Creative Designer |  
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="48"/> Lifelong Learner
+</h3>
 
+---
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; gap: 40px; flex-wrap: nowrap;">
-
-  <!-- Left Side: Developer Info -->
-  <div style="flex: 1;">
-    <ul style="list-style: none; padding: 0; font-size: 18px; line-height: 1.8;">
-      <li>🔭 Currently working on <strong>React, JavaScript, Core Java</strong></li>
-      <li>💬 Ask me about <strong>Front-end Development, Graphic designing</strong></li>
-      <li>📫 How to reach me <strong>nitinkumarmaurya457@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>Writing code is easy — until you run it. 😅</strong></li>
-    </ul>
-  </div>
-
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"/> About Me  
+<div align="center">
+  
+✨ Currently working on **React, JavaScript, and Core Java**  
+💬 Ask me about **Frontend Development & Graphic Design**  
+📧 Reach me at **nitinkumarmaurya457@gmail.com**  
+⚡ Fun fact: *"Coding is like magic — you just need the right spell"*  
 
 </div>
 
+---
 
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nitin-kumar-maurya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/nitinkumarmaurya457" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/nitinmaurya16788" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/users/nitin_53" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
-
-
-
-
-
-
-
-<hr>
-
-<br><br>
-
-
-## 🚀 Languages and Tools:
-
-<p align="left">
-  <!-- Priority Stack -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-</p>
-
-
-
-
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-175&show_icons=true&locale=en&layout=compact" alt="nitin-175" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-175&show_icons=true&locale=en" alt="nitin-175" /></p>
-
-
-
-<p align="left" style="margin: 20px 0;">
-  <img src="https://leetcard.jacoblin.cool/nitinkumarmaurya457 ?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-<br>
-
-<hr>
-
-<!-- 💖 Beautiful Profile View Section -->
-<h2 align="center">✨ Thanks for visiting my GitHub!</h2>
-
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> Connect with Me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitin-175&label=🌟%20Profile%20Views&color=ff1493&style=for-the-badge" alt="Profile views badge" />
+  <a href="https://linkedin.com/in/nitin-kumar-maurya"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/nitinkumarmaurya457"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/nitinmaurya16788"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/nitin_53"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 </p>
 
-<h3 align="center">
-  <strong>Let's build something amazing together 🚀</strong>
-</h3>
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,java,html,css,mysql,bootstrap,git,figma,ps,c" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitin-175&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-175&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br><br>
-<!-- GitHub Trophy Section -->
-<p style="margin-left: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nitin-175" alt="nitin-175" />
+<img src="https://streak-stats.demolab.com?user=nitin-175&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="28"/> GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitin-175&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28"/> LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nitinkumarmaurya457?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="28"/> Featured Projects  
+<p align="center">
+  <a href="https://github.com/nitin-175/DiziFrontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin-175&repo=DiziFrontend&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/nitin-175/nitin-175">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin-175&repo=nitin-175&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+---
+
+## <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="28"/> Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitin-175&label=🌟+Profile+Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/kBZBlLVlfECvOQAVno/giphy.gif" width="28"/> "Code is like poetry — every line should inspire."
+</h2>
