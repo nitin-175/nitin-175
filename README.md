@@ -219,7 +219,7 @@ I work across the space where **frontend engineering, backend logic and visual d
 
 
 
-/*
+<!--
 
 <!-- Typing SVG -->
 <h1 align="center">
@@ -328,4 +328,4 @@ I work across the space where **frontend engineering, backend logic and visual d
 
 
 
-*/
+-->
